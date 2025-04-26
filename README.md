@@ -19,10 +19,10 @@ Ideal para estudos de HTML, CSS, JavaScript e configuração básica de servidor
 
 # 📦 Tecnologias Utilizadas
 
-HTML5
-CSS3
-JavaScript
-Node.js
+HTML5 -
+CSS3 -
+JavaScript -
+Node.js -
 Express.js
 
 ---
