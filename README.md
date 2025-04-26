@@ -17,18 +17,6 @@ Ideal para estudos de HTML, CSS, JavaScript e configuração básica de servidor
 
 ---
 
-# 🛠️ Estrutura de Pastas
-Projeto/
-├── public/
-│   ├── index.html    // Página principal
-│   ├── script.js     // Lógica de interação
-│   └── style.css     // Estilo da página
-├── package-lock.json // Dependências
-├── package.json      // Dependências e scripts
-└── server.js         // Servidor Express
-
----
-
 # 📦 Tecnologias Utilizadas
 
 HTML5
