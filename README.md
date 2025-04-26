@@ -1,4 +1,4 @@
-# Projeto-Programa-o-Web
+# Projeto-Programacao-Web
 Projeto realizado para disciplina de Programação Web
 
 # 🧪 Laboratório de Cores Mágicas
