@@ -27,7 +27,7 @@ Express.js
 
 ---
 
-📋 Funcionalidades de cada arquivo
+# 📋 Funcionalidades de cada arquivo
 index.html → Estrutura da interface.
 
 style.css → Estilos visuais (layout, botões, poção).
