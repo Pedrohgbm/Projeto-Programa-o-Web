@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.magic-lab {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#potion-display {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #999;
+    background-color: lightgray;
+    margin: 20px auto;
+}
+
+.color-button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.red {
+    background-color:red;
+}
+
+.green {
+    background-color: #99ff99;
+}
+
+.blue {
+    background-color: #9999ff;
+}
+
+#btn-reset {
+    background-color: #cccccc;
+    color: #333;
+}
